@@ -1,0 +1,15 @@
+th {
+    font-weight: bold;
+}
+
+.edit {
+   margin-right: 10px; 
+}
+
+.edit > i {
+    color: black;
+}
+
+.delete > i {
+    color: #e35e6b;
+}
